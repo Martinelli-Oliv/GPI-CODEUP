@@ -4,4 +4,3 @@ Micro-Investigación APA e Innovación
 
 | Nombre      | Rol           | GitHub     |
 | ----------- | ------------- | ---------- |
-|Martinelli Sofia | Scrum Master |  @Martinelli-Oliv |
