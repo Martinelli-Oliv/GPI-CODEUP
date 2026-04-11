@@ -12,5 +12,5 @@ Micro-Investigación APA e Innovación
 ##  Enlaces de Gestión
 
 *  Normas APA:
-*  Tema de Innovación:
-*  Aplicación Práctica:
+*  Tema de Innovación y Aplicacion Práctica:
+
