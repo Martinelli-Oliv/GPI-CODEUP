@@ -16,6 +16,9 @@ Micro-Investigación APA e Innovación
 ### Herramientas Utilizadas
 
 -Github: Se utlizó para crear y gestionar el repositorio.
+
 -Canva: Se utilizó para diseñar el documento PDF.
+
 -Google Drive:Se utilizó para organizar la estructura y supervizar el formato.
+
 -Markdown Editor: Se utilizó para redactar y escribir el Readme.
