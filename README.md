@@ -2,11 +2,11 @@
 Micro-Investigación APA e Innovación
 ### Integrantes y Roles
 
-| Nombre      | Rol           | GitHub     |
-| ----------- | ------------- | ---------- |
-|Martinelli Sofia | Scrum Master |  @Martinelli-Oliv|
-|Caballero Melanie | Product Owner | @melaniehelizabetcaballero-create|
-|Breard María | Dev Team | @breardmaria5-art|
+| Nombre      | Rol  | Tarea Asignada | Git |
+| ----------- | ------------- | ---------- | ---------------- |
+|Martinelli Sofia | Scrum Master |  Creó el repositorio y gestionó el acceso | @Martinelli-Oliv |
+|Caballero Melanie | Product Owner | Creó el drive y organizó la estructura | @melaniehelizabetcaballero-create | 
+|Breard María | Dev Team | Realizó la investigación sobre las Normas APA e Innovación | @breardmaria5-art |
 
 
 ###  Enlaces de Gestión
