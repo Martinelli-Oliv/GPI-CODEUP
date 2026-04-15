@@ -2,7 +2,7 @@
 Micro-Investigación APA e Innovación
 ### Integrantes y Roles
 
-| Nombre      | Rol  | Tarea Asignada | Git |
+| Nombre      | Rol  | Tarea Asignada | GitHub |
 | ----------- | ------------- | ---------- | ---------------- |
 |Martinelli Sofia | Scrum Master |  Creó el repositorio y gestionó el acceso | @Martinelli-Oliv |
 |Caballero Melanie | Product Owner | Creó el drive y organizó la estructura | @melaniehelizabetcaballero-create | 
